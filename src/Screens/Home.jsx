@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Main from '../Components/header/Main'
-import Header from '../Components/Header/Header'
+import Header from '../Components/Header.jsx'
 import Second from '../Components/header/Second'
 import Third from '../Components/Third'
 import Fourth from '../Components/Fourth'

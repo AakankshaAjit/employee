@@ -4,7 +4,7 @@ const Ninth = () => {
     
   return (
     <>
-    <div className='w-full h-screen flex flex-row items-center justify-center gap-2 '>
+    <div className='    w-full h-screen flex flex-row items-center justify-center gap-2 '>
      <div className='w-[40%] h-[75%] flex items-c '>
         <img  className=''src="https://netpresenter.wpenginepowered.com/wp-content/uploads/2020/12/Features-640x640.png" alt="" />
 

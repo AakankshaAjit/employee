@@ -3,7 +3,7 @@ import React from 'react'
 const Fifth = () => {
   return (
     <>
-    <div className='w-full h-96 flex items-center justify-center flex-col '>
+    <div className=' w-full h-96 flex items-center justify-center flex-col '>
         <div className='w-[60%]   flex items-start justify-center '>
             <span className='text-[40px] font-bold flex items-start justify-center'>We’re a leader in</span>
             

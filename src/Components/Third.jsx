@@ -2,7 +2,7 @@ import React from 'react'
 
 const Third = () => {
   return (
-  <div className='w-full h-screen flex flex-row items-center justify-center gap-4'>
+  <div className=' phone:hidden w-full h-screen flex flex-row items-center justify-center gap-4'>
     <div className='w-[40%] h-[60%] flex items-center '>
       <img src="https://netpresenter.wpenginepowered.com/wp-content/uploads/2022/01/2022-Informed-Engaged-Productive-Safe-CombinedShadow-640x640.png" alt="" />
     </div>

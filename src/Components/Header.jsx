@@ -5,7 +5,7 @@ const Header = () => {
     
     
 <nav class="bg-white border-gray-200 dark:bg-gray-900 h-28 dark:border-gray-700   gap-6 flex flex-row">
-  <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto ">
+  <div class=" phone:hidden max-w-screen-xl flex flex-wrap items-center justify-between mx-auto ">
     <a href="#" class="flex items-center">
         <img src="https://netpresenter.wpenginepowered.com/wp-content/themes/netpresenter/resources/images/svg/logo-new.svg" class="h-8 mr-3" alt="Flowbite Logo" />
         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
@@ -16,7 +16,7 @@ const Header = () => {
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
         </svg>
     </button>
-    <div class="flex flex-wrap items-center justify-start  ml-auto p-4 ">
+    <div class="flex flex-wrap phone:hidden items-center justify-start  ml-auto p-4 ">
       <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
         <li>
           <a href="#" class="block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 md:dark:text-blue-500 dark:bg-blue-600 md:dark:bg-transparent" aria-current="page">Home</a>
@@ -77,7 +77,7 @@ const Header = () => {
     </div>
 
   </div>
-  <div className='w-[30%] h-12 p-4  mt-7  flex flex-row gap-4   mx-20'>
+  <div className=' phone:hidden w-[30%] h-12 p-4  mt-7  flex flex-row gap-4   mx-20'>
   <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
         
         <li>

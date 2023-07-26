@@ -3,7 +3,7 @@ import React from 'react'
 const Main = () => {
   return (
  <>
- <div className="w-full h-screen justify-evenly items-center flex">
+ <div className="w-full  h-screen justify-evenly items-center flex flex-row phone:w-full phone:h-screen phone:flex phone:items-center phone:justify-center">
 
 
 
